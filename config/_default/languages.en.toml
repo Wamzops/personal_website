@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.png"
+  description = ""
+
+[params.author]
+  name = "Colette Muiruri"
+  email = "wamuchiecolette@gmail.com"
+  image = "img/author.png"
+  headline = "Data Engineer | Biomedical Engineer"
+  
+  
+  links = [
+    { x-twitter = "https://twitter.com/burufugu" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
