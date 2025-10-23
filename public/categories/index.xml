@@ -9,7 +9,27 @@
     <managingEditor>wamuchiecolette@gmail.com (Colette Muiruri)</managingEditor>
     <webMaster>wamuchiecolette@gmail.com (Colette Muiruri)</webMaster>
     <copyright>© 2025 Colette Muiruri</copyright>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Product</title>
+      <link>//localhost:1313/categories/product/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
+      <guid>//localhost:1313/categories/product/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Strategy</title>
+      <link>//localhost:1313/categories/strategy/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
+      <guid>//localhost:1313/categories/strategy/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

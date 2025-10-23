@@ -15,7 +15,7 @@ enableCodeCopy = true
 
 replyByEmail = false
 
-mainSections = ["docs"]
+mainSections = ["blog"]
 # robots = ""
 
 disableImageOptimization = false
@@ -49,20 +49,20 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 12
+  showRecent = true
+  showRecentItems = 18
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "/blog"
   cardView = true
   cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-  showDate = false
+  showDate = true
   showViews = false
   showLikes = false
-  showDateOnlyInArticle = false
+  showDateOnlyInArticle = true
   showDateUpdated = false
   showAuthor = true
   # showAuthorBottom = false
@@ -75,18 +75,19 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showEdit = true
   editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
   editAppendPath = true
-  seriesOpened = false
+  seriesOpened = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
   showTableOfContents = true
-  showRelatedContent = false
-  relatedContentLimit = 9
+  showRelatedContent = true
+  relatedContentLimit = 6
   showTaxonomies = true 
   showAuthorsBadges = true 
   showWordCount = false
-  sharingLinks = [ ]
+  showSummary = true
+  sharingLinks = ["linkedin", "twitter", "whatsapp", "telegram", "pinterest", "reddit", "facebook", "email" ]
   showZenMode = true
 
 [list]
@@ -98,7 +99,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showSummary = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   showCards = true
   orderByWeight = true
   groupByYear = false
@@ -127,7 +128,7 @@ fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384",
   showLikes = false
   showTableOfContents = true
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   
 [firebase]

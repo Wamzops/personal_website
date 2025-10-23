@@ -17,23 +17,34 @@
 
 [[main]]
   name = "Blog"
-  pageRef = "docs/shortcodes"
+  pageRef = "blog"
   weight = 15
 
 [[main]]
-  name = "Portfolio"
+  name = "Projects"
+  pageRef = "projects"
   weight = 20
 
 [[main]]
   name = "Resume"
-  pageRef = "samples"
+  pageRef = "resume"
+  weight = 16
+
+[[main]]
+  name = "Archives"
+  pageRef = "archives"
   weight = 16
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Categories"
+  pageRef = "categories"
+  weight = 20

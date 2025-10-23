@@ -1,33 +1,191 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to My Website on </title>
+    <title></title>
     <link>//localhost:1313/</link>
-    <description>Recent content in Welcome to My Website on </description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>wamuchiecolette@gmail.com (Colette Muiruri)</managingEditor>
     <webMaster>wamuchiecolette@gmail.com (Colette Muiruri)</webMaster>
     <copyright>© 2025 Colette Muiruri</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Oct 2025 23:30:30 +0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Welcome to My Website</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Projects</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Tue, 21 Oct 2025 23:30:30 +0300</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>//localhost:1313/about/</guid>
-      <description></description>
+      <guid>//localhost:1313/projects/</guid>
+      <description>&lt;p&gt;I always try to find time to learn new stuff. Usually, most of these pet-projects don&amp;rsquo;t see the light of day. They are, however, great opportunities to try something in the real world and share the knowledge with the world.&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Welcome to My Website</title>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Tue, 21 Oct 2025 22:35:09 +0300</pubDate>
+      <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;I began my professional journey in Biomedical Engineering, where I learned to think of technology in terms of human outcomes.  I have carried this mindset into my work in IT Risk Assurance, where I have developed a strong foundation in risk management, governance and cybersecurity across highly regulated sectors such as banking and financial services. Further, my work has exposed me to enterprise cloud environments, where I have supported critical data migration initiatives and, along the way, deepened my understanding of how data flows across distributed systems, and how to architect cloud environments that uphold core security principles.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Resume</title>
       <link>//localhost:1313/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Jun 2022 21:28:51 +0100</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
       <guid>//localhost:1313/resume/</guid>
-      <description></description>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Experience 
+    &lt;div id=&#34;experience&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h2&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Company&lt;/th&gt;
+            &lt;th&gt;Link&lt;/th&gt;
+            &lt;th&gt;Role&lt;/th&gt;
+            &lt;th&gt;Dates&lt;/th&gt;
+            &lt;th&gt;Location&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=3&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=3&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;PwC&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;Data Engineer&lt;/td&gt;
+            &lt;td&gt;2025 - Present&lt;/td&gt;
+            &lt;td&gt;Hybrid &lt;/br&gt; Westlands, Kenya&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;IT Risk Assurance Consultant&lt;/td&gt;
+            &lt;td&gt;2024 - 2025&lt;/td&gt;
+            &lt;td&gt;On Site &lt;/br&gt; Westlands, Kenya&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;Sandtechs_Logo.png&#34; alt = &#34;Sandtech_logo&#34;/&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;https://sandtech.com/&#34; target=&#34;_blank&#34;&gt;Sand Tech &lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;Junior Data Scientist&lt;/td&gt;
+            &lt;td&gt;2023 - 2024&lt;/td&gt;
+            &lt;td&gt;Full Remote &lt;/br&gt; Capetown, South Africa&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Education 
+    &lt;div id=&#34;education&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h2&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;School&lt;/th&gt;
+            &lt;th&gt;Link&lt;/th&gt;
+            &lt;th style=&#34;padding-left: 30px;&#34;&gt;Degree&lt;/th&gt;
+            &lt;th&gt;Date&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;KU_logo.png&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.ku.ac.ke/&#34; target=&#34;_blank&#34;&gt;Kenyatta &lt;/br&gt;University&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding-left: 30px;&#34;&gt;BSc. Biomedical&lt;/br&gt; Engineering&lt;/td&gt;
+            &lt;td style =&#34;white-space: nowrap; text-align: right;&#34; &gt;2018 - 2024 &lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Certifications 
+    &lt;div id=&#34;certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h2&gt;
+&lt;hr&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;Microsoft Certifications 
+    &lt;div id=&#34;microsoft-certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+&lt;/h3&gt;
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;Issuer&lt;/th&gt;
+            &lt;th&gt;Link&lt;/th&gt;
+            &lt;th style=&#34;padding-left: 30px; white-space: nowrap&#34;&gt;Credential ID&lt;/th&gt;
+            &lt;th style =&#34;white-space: nowrap; text-align: right;padding-left: 30px&#34; &gt;Issue Date&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Certified: Dynamics 365 (MB 920)&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F0C1436517501A6A&lt;/td&gt;
+            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Oct 2025&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;AWS Solutions Architect Associate (AWS SAA C03)&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F621759D3A46918A&lt;/td&gt;
+            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Aug 2025&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Certified: Azure Fundamentals (AZ 900)&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F0C1436517501A6A&lt;/td&gt;
+            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Oct 2025&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Certified: Dynamics 365 (ERP)&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F0C1436517501A6A&lt;/td&gt;
+            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Oct 2025&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
+            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Certified: Dynamics 365 (ERP)&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F0C1436517501A6A&lt;/td&gt;
+            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Oct 2025&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>The Future of the Nintendo Switch</title>
+      <link>//localhost:1313/blog/22102025_test-copy/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
+      <guid>//localhost:1313/blog/22102025_test-copy/</guid>
+      <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
+      
+    </item>
+    
+    <item>
+      <title>The Future of the Nintendo Switch</title>
+      <link>//localhost:1313/blog/22102025_test/</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
+      <guid>//localhost:1313/blog/22102025_test/</guid>
+      <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
       
     </item>
     

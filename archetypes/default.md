@@ -1,5 +1,21 @@
 +++
-date = '{{ .Date }}'
+title = "{{ replace .Name "-" " " | title }}"
+date = {{ .Date }}
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+showDate = false
+showDateOnlyInArticle = false
+showDateUpdated = false
+showHeadingAnchors = false
+showPagination = false
+showReadingTime = false
+showTableOfContents = false
+showTaxonomies = false
+showWordCount = false
+showSummary = false
+sharingLinks = false
+showEdit = false
+showViews = false
+showLikes = false
+showAuthor = false
+layoutBackgroundHeaderSpace = false
 +++

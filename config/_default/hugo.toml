@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-summaryLength = 0
+summaryLength = 30
 
 buildDrafts = false
 buildFuture = false
@@ -19,7 +19,19 @@ enableEmoji = true
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
-  pagerSize = 100
+  pagerSize = 27
+
+[params.author]
+  name = "Colette Muiruri"
+  image = "img/author.png"
+  headline = "Data Engineer . Biomedical Engineer"
+  subtitle = "🧠 Builder · Mentor . Writer"
+  bio = "Data Engineer . IT Risk Assurance Consultant @ PwC Kenya"
+  links = [
+    { email = "wamuchiecolette@gmail.com" },
+    { linkedin = "https://linkedin.com/in/wamuchiecolette" },
+    { github = "https://github.com/WamzOps" },
+  ]
 
 [imaging]
   anchor = 'Center'
@@ -39,8 +51,9 @@ enableEmoji = true
   home = ["HTML", "RSS", "JSON"]
 
 [related]
-  threshold = 0
-  toLower = false
+  threshold = 1
+  includeNewer = true
+  toLower = true
 
     [[related.indices]]
         name = "tags"
@@ -56,14 +69,14 @@ enableEmoji = true
 
     [[related.indices]]
         name = "authors"
-        weight = 20
-
-    [[related.indices]]
-        name = "date"
         weight = 10
 
     [[related.indices]]
-      applyFilter = false
+        name = "date"
+        weight = 0
+
+    [[related.indices]]
+      applyFilter = true
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
