@@ -9,7 +9,7 @@
     <managingEditor>wamuchiecolette@gmail.com (Colette Muiruri)</managingEditor>
     <webMaster>wamuchiecolette@gmail.com (Colette Muiruri)</webMaster>
     <copyright>© 2025 Colette Muiruri</copyright>
-    <lastBuildDate>Tue, 21 Oct 2025 23:30:30 +0300</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
@@ -28,6 +28,36 @@
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
       <guid>//localhost:1313/about/</guid>
       <description>&lt;p&gt;I began my professional journey in Biomedical Engineering, where I learned to think of technology in terms of human outcomes.  I have carried this mindset into my work in IT Risk Assurance, where I have developed a strong foundation in risk management, governance and cybersecurity across highly regulated sectors such as banking and financial services. Further, my work has exposed me to enterprise cloud environments, where I have supported critical data migration initiatives and, along the way, deepened my understanding of how data flows across distributed systems, and how to architect cloud environments that uphold core security principles.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Working with Repositories</title>
+      <link>//localhost:1313/blog/github_tutorial_series/part_3/</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
+      <guid>//localhost:1313/blog/github_tutorial_series/part_3/</guid>
+      <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
+      
+    </item>
+    
+    <item>
+      <title>An Overview of Git and Github</title>
+      <link>//localhost:1313/blog/github_tutorial_series/part_1/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
+      <guid>//localhost:1313/blog/github_tutorial_series/part_1/</guid>
+      <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
+      
+    </item>
+    
+    <item>
+      <title>Getting Started with Github</title>
+      <link>//localhost:1313/blog/github_tutorial_series/part_2/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
+      <guid>//localhost:1313/blog/github_tutorial_series/part_2/</guid>
+      <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
       
     </item>
     

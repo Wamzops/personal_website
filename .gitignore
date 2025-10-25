@@ -1,0 +1,8 @@
+# Hugo specific exclusions
+/public/
+/resources/
+/.vscode/
+.Ds_Store
+/node_modules/
+package-lock.json
+package.json

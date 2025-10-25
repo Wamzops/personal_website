@@ -30,10 +30,6 @@
   pageRef = "resume"
   weight = 16
 
-[[main]]
-  name = "Archives"
-  pageRef = "archives"
-  weight = 16
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

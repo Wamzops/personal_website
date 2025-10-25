@@ -170,11 +170,13 @@ td {
   background:transparent;
   border-radius: 4%;
   padding: 15px;
-  width: 200px;
-  height: 200px;
+  min-width: 200px;
+  width: 100%;
+  max-width: 250px;
+  height: 100%;
   transition: all 0.3s ease;
-  overflow: hidden;
-  object-fit: contain;
+  overflow: visible;
+  object-fit: hidden;
 }
 
 .cert-card:hover {
