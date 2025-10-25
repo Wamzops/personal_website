@@ -34,7 +34,7 @@ I always try to find time to learn new stuff. Usually, most of these pet-project
     </thead>
     <tbody>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="under_construction.png"/></td>
+            <td><img class="customEntitityLogo"  src="under_construction.png"/></td>
             <td>
               Project_1
               {{< badge >}}

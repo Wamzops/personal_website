@@ -107,65 +107,27 @@
     &lt;div id=&#34;certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
 &lt;/h2&gt;
-&lt;hr&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;Microsoft Certifications 
+&lt;h4 class=&#34;relative group&#34;&gt;Microsoft Certifications 
     &lt;div id=&#34;microsoft-certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
-&lt;/h3&gt;
-&lt;table&gt;
-    &lt;thead&gt;
-        &lt;tr&gt;
-            &lt;th&gt;Issuer&lt;/th&gt;
-            &lt;th&gt;Link&lt;/th&gt;
-            &lt;th style=&#34;padding-left: 30px; white-space: nowrap&#34;&gt;Credential ID&lt;/th&gt;
-            &lt;th style =&#34;white-space: nowrap; text-align: right;padding-left: 30px&#34; &gt;Issue Date&lt;/th&gt;
-        &lt;/tr&gt;
-    &lt;/thead&gt;
-    &lt;tbody&gt;
-        &lt;tr&gt;
-            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
-            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Certified: Dynamics 365 (MB 920)&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F0C1436517501A6A&lt;/td&gt;
-            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Oct 2025&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
-            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;AWS Solutions Architect Associate (AWS SAA C03)&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F621759D3A46918A&lt;/td&gt;
-            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Aug 2025&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
-            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Certified: Azure Fundamentals (AZ 900)&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F0C1436517501A6A&lt;/td&gt;
-            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Oct 2025&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
-            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Certified: Dynamics 365 (ERP)&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F0C1436517501A6A&lt;/td&gt;
-            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Oct 2025&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td rowspan=2&gt;&lt;img class=&#34;customEntityLogo&#34; src=&#34;PwC_logo.svg&#34; alt=&#34;PwC logo&#34;/&gt;&lt;/td&gt;
-            &lt;td rowspan=2&gt;&lt;a href=&#34;https://www.pwc.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Certified: Dynamics 365 (ERP)&lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td style=&#34;padding-left: 30px;&#34; &gt;F0C1436517501A6A&lt;/td&gt;
-            &lt;td style =&#34;white-space: nowrap; text-align: left;padding-left: 30px&#34;&gt;Oct 2025&lt;/td&gt;
-        &lt;/tr&gt;
-    &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;hr&gt;</description>
+&lt;/h4&gt;
+&lt;hr&gt;
+&lt;section class=&#34;certifications&#34;&gt;
+  &lt;div class=&#34;cert-grid&#34;&gt;
+    &lt;!-- Certification 1 --&gt;
+    &lt;a href=&#34;https://learn.microsoft.com/api/credentials/share/en-us/ColetteMuiruriKE-1115/F0C1436517501A6A?sharingId=50F6AF18E5FE4E36&#34; target=&#34;_blank&#34; class=&#34;cert-card&#34;&gt;
+      &lt;img class=&#34;customEntityLogo&#34; src=&#34;MB920.png&#34;/&gt;
+      &lt;div class=&#34;cert-content&#34;&gt;
+        &lt;h3&gt;Microsoft Certified: Dynamics 365 Fundamentals (ERP)&lt;/h3&gt;
+        &lt;div class=&#34;cert-tags&#34;&gt;
+          &lt;span&gt;ERP&lt;/span&gt;
+          &lt;span&gt;Data Migration&lt;/span&gt;
+          &lt;span&gt;Data Governance&lt;/span&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;cert-overlay&#34;&gt;
+        &lt;p&gt;Issued by Microsoft · Valid through 2026&lt;/p&gt;</description>
       
     </item>
     

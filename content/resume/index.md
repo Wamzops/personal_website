@@ -86,61 +86,78 @@ layoutBackgroundHeaderSpace = false
 
 ## Certifications
 
+#### Microsoft Certifications
 
 ---
-### Microsoft Certifications
 
-<table>
-    <thead>
-        <tr>
-            <th>Issuer</th>
-            <th>Link</th>
-            <th style="padding-left: 30px; white-space: nowrap">Credential ID</th>
-            <th style ="white-space: nowrap; text-align: right;padding-left: 30px" >Issue Date</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=2><img class="customEntityLogo" src="PwC_logo.svg" alt="PwC logo"/></td>
-            <td rowspan=2><a href="https://www.pwc.com/" target="_blank">Microsoft Certified: Dynamics 365 (MB 920)</a></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 30px;" >F0C1436517501A6A</td>
-            <td style ="white-space: nowrap; text-align: left;padding-left: 30px">Oct 2025</td>
-        </tr>
-        <tr>
-            <td rowspan=2><img class="customEntityLogo" src="PwC_logo.svg" alt="PwC logo"/></td>
-            <td rowspan=2><a href="https://www.pwc.com/" target="_blank">AWS Solutions Architect Associate (AWS SAA C03)</a></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 30px;" >F621759D3A46918A</td>
-            <td style ="white-space: nowrap; text-align: left;padding-left: 30px">Aug 2025</td>
-        </tr>
-        <tr>
-            <td rowspan=2><img class="customEntityLogo" src="PwC_logo.svg" alt="PwC logo"/></td>
-            <td rowspan=2><a href="https://www.pwc.com/" target="_blank">Microsoft Certified: Azure Fundamentals (AZ 900)</a></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 30px;" >F0C1436517501A6A</td>
-            <td style ="white-space: nowrap; text-align: left;padding-left: 30px">Oct 2025</td>
-        </tr>
-        <tr>
-            <td rowspan=2><img class="customEntityLogo" src="PwC_logo.svg" alt="PwC logo"/></td>
-            <td rowspan=2><a href="https://www.pwc.com/" target="_blank">Microsoft Certified: Dynamics 365 (ERP)</a></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 30px;" >F0C1436517501A6A</td>
-            <td style ="white-space: nowrap; text-align: left;padding-left: 30px">Oct 2025</td>
-        </tr>
-        <tr>
-            <td rowspan=2><img class="customEntityLogo" src="PwC_logo.svg" alt="PwC logo"/></td>
-            <td rowspan=2><a href="https://www.pwc.com/" target="_blank">Microsoft Certified: Dynamics 365 (ERP)</a></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 30px;" >F0C1436517501A6A</td>
-            <td style ="white-space: nowrap; text-align: left;padding-left: 30px">Oct 2025</td>
-        </tr>
-    </tbody>
-</table>
+<section class="certifications">
+  <div class="cert-grid">
+    <!-- Certification 1 -->
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/ColetteMuiruriKE-1115/F0C1436517501A6A?sharingId=50F6AF18E5FE4E36" target="_blank" class="cert-card">
+      <img class="customEntityLogo" src="MB920.png"/>
+      <div class="cert-content">
+        <h3>Microsoft Certified: Dynamics 365 Fundamentals (ERP)</h3>
+        <div class="cert-tags">
+          <span>ERP</span>
+          <span>Data Migration</span>
+          <span>Data Governance</span>
+        </div>
+      </div>
+      <div class="cert-overlay">
+        <p>Issued by Microsoft · Valid through 2026</p>
+      </div>
+    </a>
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/ColetteMuiruriKE-1115/F621759D3A46918A?sharingId=50F6AF18E5FE4E36" target="_blank" class="cert-card">
+      <img class="customEntityLogo" src="AZ900.png" />
+      <div class="cert-content">
+        <h3>Microsoft Certified: Azure Fundamentals</h3>
+        <div class="cert-tags">
+          <span>Cloud</span>
+          <span>Azure</span>
+          <span>Beginner</span>
+        </div>
+      </div>
+      <div class="cert-overlay">
+        <p>Issued by Microsoft · Valid through 2026</p>
+      </div>
+  </div>
+  </a>
+</section>
+
+#### Amazon Web Services (AWS) Certifications
 
 ---
+
+<section class="certifications">
+  <div class="cert-grid">
+    <!-- Certification 1 -->
+    <a href="https://www.credly.com/badges/0af51fa2-eee6-4b3a-ab52-b5c58bc59f35/public_url" target="_blank" class="cert-card">
+      <img class="customEntityLogo" src="AWSCCP.png"/>
+      <div class="cert-content">
+        <h3>AWS Certified Cloud Practitioner</h3>
+        <div class="cert-tags">
+          <span>AWS</span>
+          <span>Cloud</span>
+          <span>Beginner</span>
+        </div>
+      </div>
+      <div class="cert-overlay">
+        <p>Issued by AWS · Valid through 2028</p>
+      </div>
+    </a>
+    <a href="https://www.credly.com/badges/abf03fa5-b584-4f55-b1cb-b98877076ef3/public_url" target="_blank" class="cert-card">
+      <img class="customEntityLogo" src="AWSSAA.png" />
+      <div class="cert-content">
+        <h3>AWS Certified Solutions Architect</h3>
+        <div class="cert-tags">
+          <span>AWS</span>
+          <span>Cloud</span>
+          <span>Intermediate</span>
+        </div>
+      </div>
+      <div class="cert-overlay">
+        <p>Issued by AWS · Valid through 2028</p>
+      </div>
+  </div>
+  </a>
+</section>

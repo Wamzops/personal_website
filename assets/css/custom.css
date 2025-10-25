@@ -135,3 +135,133 @@ body {
 td {
     vertical-align: middle !important;
 }
+
+/* ===== CERTIFICATIONS SECTION ===== */
+
+.certifications {
+  padding: 2rem 0;
+}
+
+.certifications h2 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #0d1b2a;
+  text-align: center;
+}
+
+/* Layout for certification cards */
+.cert-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  justify-content: flex-start;
+  padding: 0 10px;
+
+}
+/* Individual certification card */
+.cert-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+  background:transparent;
+  border-radius: 4%;
+  padding: 15px;
+  width: 200px;
+  height: 200px;
+  transition: all 0.3s ease;
+  overflow: hidden;
+  object-fit: contain;
+}
+
+.cert-card:hover {
+  transform: translateY(-5px);
+  border-color: var(--color-primary-500);
+  opacity: 1;
+}
+
+/* Title and tags */
+.cert-content {
+  z-index: 1;
+}
+
+.cert-card h3 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.cert-tags {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.4rem;
+  background: transparent;
+}
+
+.cert-tags span {
+  font-size: 0.8rem;
+  color:var(--color-primary-500);
+  border: 1px solid #d72638;
+  border-radius: 6px;
+  padding: 0.05rem 0.6rem;
+  background: transparent;
+  transition: all 0.2s ease;
+}
+
+.cert-tags span::hover {
+  background: var(--color-primary-500);
+  color: #fff;
+}
+
+/* Overlay shown on hover */
+.cert-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background:rgb(200, 60, 90);
+  color: #fff;
+  opacity: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 12px;
+  transition: opacity 0.3s ease;
+  z-index: 2;
+}
+
+.cert-overlay p {
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+.cert-card:hover .cert-overlay {
+  opacity: 1;
+}
+
+/* Dim the logo and text when hovering */
+.cert-card:hover .customEntityLogo,
+.cert-card:hover .cert-content {
+  opacity: 0.3;
+}
+
+/* Larger cards on bigger screens */
+@media screen and (min-width: 700px) {
+  .cert-card {
+    width: auto;
+  }
+}
+
+@media screen and (min-width: 1250px) {
+  .cert-card {
+    width: auto;
+    height: auto;
+  }
+}
