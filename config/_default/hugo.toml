@@ -3,11 +3,11 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = ""
+baseURL = "https://wamzops.onrender.com/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
-
+enableCodeCopyRobotsTXT = true
 enableRobotsTXT = true
 summaryLength = 30
 
