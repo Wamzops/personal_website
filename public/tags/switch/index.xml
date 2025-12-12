@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Switch on </title>
-    <link>http://localhost:50621/tags/switch/</link>
+    <link>http://localhost:1313/tags/switch/</link>
     <description>Recent content in Switch on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>wamuchiecolette@gmail.com (Colette Muiruri)</managingEditor>
     <webMaster>wamuchiecolette@gmail.com (Colette Muiruri)</webMaster>
     <copyright>© 2025 Colette Muiruri</copyright>
-    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50621/tags/switch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/switch/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Github tutorial Series</title>
-      <link>http://localhost:50621/blog/github_tutorial_series/</link>
+      <link>http://localhost:1313/blog/github_tutorial_series/</link>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>http://localhost:50621/blog/github_tutorial_series/</guid>
+      <guid>http://localhost:1313/blog/github_tutorial_series/</guid>
       <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
       
     </item>
     
     <item>
       <title>Working with Repositories</title>
-      <link>http://localhost:50621/blog/github_tutorial_series/part_3/</link>
+      <link>http://localhost:1313/blog/github_tutorial_series/part_3/</link>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>http://localhost:50621/blog/github_tutorial_series/part_3/</guid>
+      <guid>http://localhost:1313/blog/github_tutorial_series/part_3/</guid>
       <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
       
     </item>
     
     <item>
       <title>An Overview of Git and Github</title>
-      <link>http://localhost:50621/blog/github_tutorial_series/part_1/</link>
+      <link>http://localhost:1313/blog/github_tutorial_series/part_1/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>http://localhost:50621/blog/github_tutorial_series/part_1/</guid>
+      <guid>http://localhost:1313/blog/github_tutorial_series/part_1/</guid>
       <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
       
     </item>
     
     <item>
       <title>Getting Started with Github</title>
-      <link>http://localhost:50621/blog/github_tutorial_series/part_2/</link>
+      <link>http://localhost:1313/blog/github_tutorial_series/part_2/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>http://localhost:50621/blog/github_tutorial_series/part_2/</guid>
+      <guid>http://localhost:1313/blog/github_tutorial_series/part_2/</guid>
       <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
       
     </item>
     
     <item>
       <title>The Future of the Nintendo Switch</title>
-      <link>http://localhost:50621/blog/22102025_test-copy/</link>
+      <link>http://localhost:1313/blog/22102025_test-copy/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>http://localhost:50621/blog/22102025_test-copy/</guid>
+      <guid>http://localhost:1313/blog/22102025_test-copy/</guid>
       <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
       
     </item>
     
     <item>
       <title>The Future of the Nintendo Switch</title>
-      <link>http://localhost:50621/blog/22102025_test/</link>
+      <link>http://localhost:1313/blog/22102025_test/</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>http://localhost:50621/blog/22102025_test/</guid>
+      <guid>http://localhost:1313/blog/22102025_test/</guid>
       <description>Nintendo achieved something truly amazing with the launch of the Switch. It was able to disrupt itself and the entire gaming industry while saving itself from doom. How exactly was Nintendo able to do it and what comes next in that story?</description>
       
     </item>
