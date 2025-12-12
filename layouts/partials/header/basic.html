@@ -113,7 +113,7 @@
         </div>
         <div
           id="menu-wrapper"
-          class="fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]">
+          class="fixed inset-0 z-60 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50 pt-[5px]">
           <ul
             class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none text-end max-w-7xl">
             <li id="menu-close-button">
@@ -243,7 +243,7 @@
 
 {{/* ========== Render HTML ========== */}}
 <div
-  class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3 pt-[2px] pr-0 pb-[3px] pl-0">
+  class="main-menu fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start gap-x-3 pt-[2px] pr-0 pb-[3px] pl-0 bg-transparent fixed-site-header">
   {{ template "HeaderLogo" . }}
   <div class="flex flex-1 items-center justify-between">
     <nav class="flex space-x-3">

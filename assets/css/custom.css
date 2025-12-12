@@ -6,6 +6,22 @@ body {
   background-attachment: fixed;
 }
 
+/* Fixed transparent header adjustments */
+.fixed-site-header {
+  /* default header height used to offset page content when header is fixed */
+  --site-header-height: 72px;
+}
+
+/* When header is fixed we add top padding to main content so it isn't hidden */
+#main-content {
+  padding-top: var(--site-header-height, 72px);
+}
+
+/* Ensure the mobile menu overlay sits above the fixed header when opened */
+#menu-wrapper {
+  z-index: 60; /* matches class change in markup; can be adjusted if needed */
+}
+
 @media screen and (min-width: 0px) {
     .customthumb {
         width: 100%;

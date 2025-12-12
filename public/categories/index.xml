@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:50621/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>wamuchiecolette@gmail.com (Colette Muiruri)</managingEditor>
     <webMaster>wamuchiecolette@gmail.com (Colette Muiruri)</webMaster>
     <copyright>© 2025 Colette Muiruri</copyright>
-    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50621/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Product</title>
-      <link>http://localhost:1313/categories/product/</link>
+      <link>http://localhost:50621/categories/product/</link>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>http://localhost:1313/categories/product/</guid>
+      <guid>http://localhost:50621/categories/product/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Strategy</title>
-      <link>http://localhost:1313/categories/strategy/</link>
+      <link>http://localhost:50621/categories/strategy/</link>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
       <author>wamuchiecolette@gmail.com (Colette Muiruri)</author>
-      <guid>http://localhost:1313/categories/strategy/</guid>
+      <guid>http://localhost:50621/categories/strategy/</guid>
       <description></description>
       
     </item>
